@@ -52,6 +52,7 @@
 }
 
 body {
+  font-family: 'Open Sans', sans-serif;
   background: -webkit-linear-gradient(left, #D3CCE3, #E9E4F0);
   background: linear-gradient(to right, #D3CCE3, #E9E4F0);
 }
